@@ -7,7 +7,7 @@ class App extends Component {
       <div className="App">
 
           <h1 className="App-title">Welcome to React</h1>
-
+  <h3>welcome to the react app. Just checking the github pages are working or not.</h3>
       </div>
     );
   }
